@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "amd",
+        "outFile": "./dist/linq.js",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "sourceMap": true
+    },
+    "include": [
+        "**/*"
+    ]
+}
